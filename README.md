@@ -22,3 +22,4 @@ HTML, CSS, JavaScript, ReactJs, NodeJs, Bootstrap...
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-imhandegbelo-2004011a5)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GImhandegbelo)
+[![repl](https://img.shields.io/badge/replit-replit-FFA500)](https://replit.com/@Imhandegbelo)
