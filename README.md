@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, ReactJs, NodeJs, Bootstrap, Tailwind...
 
 👯‍♀️ I'm looking to collaborate on web projects especially with a focus on education
 
-🤔 I'm looking for help with remote web developer roles to gather as more experiences and to better be involved in the development processes
+🤔 I'm looking for help with remote web developer roles to gather more experiences and to better be involved in the development processes
 
 ⚡️ Fun fact - When I am not coding, I love to draw portraits 
 
